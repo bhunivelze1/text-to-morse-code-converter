@@ -1,0 +1,6 @@
+----REQUIREMENTS----
+> Convert each letter and symbol in a line of text into its morse code equivalent.
+> Play the morse code into a telegram sound.
+
+----BACKLOG----
+> Change the morse from textual to graphical.
